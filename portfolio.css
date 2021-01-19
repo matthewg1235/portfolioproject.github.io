@@ -4,31 +4,25 @@
 
 html {
     height: 100%;
+        
 }
 
-body {
-    
-    
+body {    
     height: 100%;
+    background-image: url("images/bg.jpg");
+    background-size: cover;
 }
 
 h1{
     color: white;
     text-align: center;
     font-weight: 600;
-    font-size: 65px;
+    font-size: 60px;
 }
 
-.home {
-    background-image: url("images/bg.jpg");
+.home {    
     background-size: cover;
     height: 100%;
     padding-top: 20px;
 }
 
-.work {
-    background-color: white;
-    background-size: cover;
-    height: 100%;
-    padding-top: 20px;
-}

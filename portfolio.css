@@ -17,12 +17,16 @@ h1{
     color: white;
     text-align: center;
     font-weight: 600;
-    font-size: 60px;
+    font-size: 50px;
 }
 
 .home {    
     background-size: cover;
     height: 100%;
     padding-top: 20px;
+}
+
+#carouselExampleIndicators{
+    margin: 0 auto;
 }
 

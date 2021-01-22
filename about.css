@@ -1,5 +1,25 @@
+*{
+    font-family: 'Montserrat', sans-serif;
+}
+
 body {    
     height: 100%;
-    background-image: url("images/bg.jpg");
+    background-image: url("images/bg1.jpg");
     background-size: cover;
+}
+
+.me{
+    padding-top: 80px;
+    padding-right: 50px;
+    padding-left: 50px;
+    align-content: center;
+}
+
+h1{
+    color:black;
+}
+
+div p{
+    font-size: 22px;
+    color:black;
 }

@@ -10,7 +10,7 @@ body {
 
 .fab{
     padding: 20px;
-    font-size: 50px;
+    font-size: 30px;
     width: 50px;
     text-align: center;
     text-decoration: none;
@@ -18,10 +18,34 @@ body {
     color: black;   
 }
 
+.far{
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    color: black;  
+}
+
+.fas{
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    color: black;  
+}
+
+span{
+    font-size: 22px;
+}
+
 .contactdetails{
     padding-left: 100px;
     padding-right: 100px;
-    padding-top: 80px;
+    
 }
 
 .contactform{
@@ -33,7 +57,7 @@ h2{
 }
 
 input[type=text], select, textarea {
-    width: 30%; 
+    width: 40%; 
     padding: 8px;
     border: 1px solid black; 
     border-radius: 5px;
@@ -43,7 +67,7 @@ input[type=text], select, textarea {
   }
 
 input[type=email]{
-    width: 30%; 
+    width: 40%; 
     padding: 8px;
     border: 1px solid black; 
     border-radius: 5px;
@@ -53,7 +77,7 @@ input[type=email]{
   }
 
 textarea{
-    width: 60%
+    width: 80%
 }
   
 input[type=submit] {
@@ -68,7 +92,8 @@ input[type=submit]:hover {
     background-color: black;
   }
   
-.container {    
-    background-color: transparent;
-    padding: 20px;
+.container {   
+    background-color:transparent;
+    padding-top: 80px;
+  
   }
